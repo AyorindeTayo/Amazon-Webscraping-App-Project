@@ -1,3 +1,3 @@
 # Amazon-Webscraping-App-Project
 Python webscrapping 
- of Amazon airpod pice 
+ of Amazon airpod piece 
