@@ -45,7 +45,7 @@ def my_email():
     server.starttls()
     server.ehlo()
 
-    server.login('olanipekunayo2012@gmail.com','cedindooadqcldsi')
+    server.login('olanipekunayo2012@gmail.com','passowrd')
 
     
 
